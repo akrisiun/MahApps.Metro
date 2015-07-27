@@ -39,7 +39,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <DebugSymbols>true</DebugSymbols>
-    <OutputPath>bin\NET45\Debug\</OutputPath>
+    <OutputPath>..\..\bin\</OutputPath>
     <IntermediateOutputPath>obj\NET45\Debug\</IntermediateOutputPath>
     <DefineConstants>TRACE;DEBUG;NET4_5</DefineConstants>
     <DebugType>full</DebugType>
